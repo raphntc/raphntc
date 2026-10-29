@@ -1,4 +1,4 @@
-<h1 align="center">Opa, eu sou o Raphael Marques 👋</h1>
+<h1 align="center">Bem vindo, eu sou o Raphael Marques 👋</h1>
 
 <p align="center">
   <em>"O conhecimento é o caminho para a liberdade."</em>
